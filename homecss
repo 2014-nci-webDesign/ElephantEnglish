@@ -1,0 +1,345 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body{
+	font-family:Helvetica, sans-serif;
+	background-color:transparent;
+	background-image:url("img/paper2X.png");
+	background-repeat:repeat;
+	text-decoration:none;
+	margin:0;
+}
+
+#space{
+	height:10%;
+}
+
+h1{
+	font-size:6em;
+	color:#2D1C23;
+	padding-top:0;
+	padding-bottom:0;
+	border:none;
+	margin-top:1%;
+	margin-bottom:1%;
+}
+
+h3{
+	font-size:2.5em;
+	color:#FFF;
+	padding-left:0;
+	padding-right:0;
+	border:0;
+	margin:0;
+}
+
+h4{
+	font-size:2em;
+	color:#2D1C23;
+	padding-left:20%;
+	padding-right:20%;
+	border:none;
+	margin-top:2%;
+	text-align:center;
+}
+
+h5{
+	font-size:1.1em;
+	color:#2D1C23;
+	padding-left:20%;
+	padding-right:20%;
+	border:none;
+	margin:0;
+}
+
+h6{
+	font-size:1.5em;
+	color:#FFF;
+	padding-left:25%;
+	padding-right:25%;
+	border:none;
+	margin-top:2%;
+	margin-bottom:0;
+	text-align:center;
+	font-weight:200;
+}
+
+p{
+	font-size:0.9em;
+	color:#2D1C23;
+	padding-left:20%;
+	padding-right:20%;
+	border:none;
+	margin:none;
+	margin-bottom:0;
+}
+
+
+#btn {
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  border: 1px solid #EF7F11;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight:bold;
+  background: #EF7F11;
+  padding: 10px 20px 10px 20px;
+  margin-top:0;
+  text-decoration: none;
+  text-shadow:0;
+}
+
+#btn:hover {
+  background: #DACFCA;
+  text-decoration: none;
+}
+
+#btn-sub {
+  -webkit-border-radius:3px;
+  -moz-border-radius:3px;
+  border-radius:3px;
+  border: 1px solid #EF7F11;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight:bold;
+  background: #EF7F11;
+  padding: 10px 15px 10px 15px;
+  margin-top:0;
+  text-decoration: none;
+  text-shadow:0;
+}
+
+#l-left{
+  float: left;
+  background-color:red; 
+  height: 0.8em; 
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+#l-right{
+  float:right;
+  background-color:red; 
+  height: 2em; 
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+#social-buttons {
+    	float:right;
+	background-color:transparent; 
+	margin:0;
+    	padding:0;
+}
+
+#social-buttons div{
+	display:inline;
+	float:left;
+    	width:50px;
+    	height:20px;
+    	margin-top:15px;
+	text-align:center;
+}
+
+#logo{
+	display:inline;
+	float:left;
+    	width:100px;
+    height:50px;
+    margin-top:5px;
+	text-align:right;
+}
+
+#menu {
+	width:auto;
+	height:70px;
+	background-color:#2d1c23;
+} 
+
+.nav{
+    border:0; 
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+	
+}
+.nav li a{
+    text-decoration:non;
+	display:inline-block;
+    padding:20px;
+	color:#DACFCA;
+	font-weight:bold;	
+}
+
+.nav li a:hoover{
+    text-decoration:none;
+	display:inline-block;
+    padding:20px;
+	color:white;
+	font-weight:bold;
+}
+
+#eye-catcher {
+	width:auto;
+	boder:none;
+	padding:0;
+	height:475px;
+	background-color:#B9DACD;
+	text-align:center;
+	margin:none;
+
+}
+
+#title-pag{
+	width:100%;
+	boder:none;
+	padding-top:180px;
+
+}
+
+#text-title-pag{
+	width:100%;
+	boder:none;
+	padding-top:180px;
+
+}
+
+
+#home-services{
+	display:inline;
+	float:left;
+	width:100%;
+	background-color:#DACFCA;
+	text-align:center;
+}
+#exam-prep{
+	display:inline;
+	float:left;
+	width:30%;
+    height:290px;
+	padding-left:5%;
+	text-align:center;
+
+}
+
+#gen-english{
+	display:inline;
+	float:left;
+	width:30%;
+    height:290px;
+	text-align:center;
+
+}
+
+#dw-workshops{
+	display:inline;
+	float:left;
+	width:30%;
+    height:280px;
+	padding-right:5%;
+	text-align:center;
+}
+
+
+#icons-home{
+	display:inline;
+	float:left;
+	text-align:center;
+	padding-top:10px;
+	padding-left:25px;
+	padding-bottom:10px;
+}
+
+#btn-sub-div{
+	display:inline;
+	float:left;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:20px;
+}
+
+#btn-sub-exam-prep{
+	display:inline;
+	float:left;
+	width:30%;
+	text-align:center;
+	padding-left:5%;
+}
+
+#btn-sub-gen-eng{
+	display:inline;
+	float:left;
+	width:30%;
+	text-align:center;
+
+
+}
+
+#btn-sub-dw-workshops{
+	display:inline;
+	float:left;
+	width:30%;
+	text-align:center;
+	padding-right:5%;
+
+}
+
+#home-about{
+	display:inline;
+	float:left;
+	width:100%;
+	padding-top:20px;
+	background-color:#DACFCA;
+
+}
+#home-about-text{
+	display:inline;
+	float:left;
+	width:60%;
+    height:280px;
+	padding-left:2%;
+	text-align:left;
+
+
+}
+
+#home-about-image{
+	display:inline;
+	float:right;
+	width:30%;
+    height:200px;
+	padding-right:3%;
+	text-align:left;
+
+}
+
+#home-about-button{
+	display:inline;
+	float:left;
+	width:100%;
+	text-align:left;
+	padding-top:5px;
+	padding-left:19.5%;
+	padding-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
