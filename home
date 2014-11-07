@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/styles.css" type="text/css">
+<title>Elephant Englisht</title>
+</head>
+
+<body>
+<header>
+  <div id="social-buttons">
+     <div>
+       		<a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+            <img src="img/facebook.png" alt="facebook icon" width="50%"/>
+            </a>
+       </div>
+       <div>
+        	<a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+            <img src="img/twitter.png" alt="twitter icon" width="50%"/>
+            </a>
+       </div>
+       <div>
+       		<a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+            <img src="img/youtube.png" alt="youtube icon" width="50%"/>
+            </a>
+       </div>  
+  	</div>
+  <div id="logo">
+    	<a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+        <img src="img/logo.png" alt="Elephant English" width="60%"/>
+         </a>
+    </div>
+  	
+  <div id="menu">
+   	 <ul class="nav">
+ 		 <li><a href="#">HOME</a></li>
+ 		 <li><a href="#">ABOUT</a></li>
+ 		 <li><a href="#">SERVICES</a></li>
+  		 <li><a href="#">RESOURCES</a></li>
+         <li><a href="#">PRICES</a></li>
+  		 <li><a href="#">CONTACT</a></li>
+	</ul>   	  
+  </div>   	
+</header>
+
+<div id="eye-catcher">
+	<div id="space"></div>
+	<div class ="h3"><h3>Hi, this is</h3></div>
+    <div class="h1"><h1>Elephant English</h1></div>
+    <div class ="h6"><h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 	aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h6></div>
+    <div id="space"></div>
+    <div><button id="btn">Meet me!</button></div>
+</div>
+ 
+<div>
+<div id="space"></div>
+<div class="h4"><h4> // Services // </h4></div>
+</div>
+	
+<div id="home-services">
+<div id="exam-prep">
+	<div id="icons-home"><a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+	<img src="img/logo.png" alt="Elephant English" width="23%"/>
+	</a></div>
+	<div class="h5"><h5> Exam Preparation</h5></div>
+    <div class="p"><p> The one-to-one exam prep courses I offer are tailor-made for your specific needs and timetable. I have many years of experience teaching Cambridge First (FCE), Cambridge Advanced (CAE), and IELTS, and I understand how important passing these exams is, and how stressful preparing can be.</p></div>
+</div>
+
+<div id="gen-english">
+	<div id="icons-home"><a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+	<img src="img/logo.png" alt="Elephant English" width="23%"/>
+	</a></div>
+	<div class="h5"><h5>General English</h5></div>
+    <div class="p"><p> We will work together to strengthen all skills areas --speaking, writing, vocabulary and grammar, listening and reading-- and you will leave feeling more confident and fluent. These classes are fun yet demanding and provide an alternative to time-consuming group classes.</p></div>
+</div>
+
+<div id="dw-workshops">
+	<div id="icons-home"><a href="https://www.google.es/?gws_rd=ssl" target="_blank">
+	<img src="img/logo.png" alt="Elephant English" width="23%"/>
+	</a></div>
+	<div class="h5"><h5> Writing Workshops</h5></div>
+    <div class="p"><p>I love all kinds of teaching, helping students become better writers is my true speciality. What Iâ€™ve found as both a language learner and teacher is that students generally do not get enough writing practice in group classes, and they donâ€™t get enough construction criticism from their teachers.</p></div>
+</div>
+
+<div id="btn-sub-div">
+    <div id="btn-sub-exam-prep">
+    	<div><button id="btn-sub">more info</button></div>
+    </div>
+    <div id="btn-sub-gen-eng">
+   		<div><button id="btn-sub">more info</button></div>
+    </div>
+	<div>
+    	<div id="btn-sub-dw-workshops"><button id="btn-sub">more info</button></div>
+    </div>
+</div>
+</div>
+
+<div id="title-pag">
+<div id="text-title-pag">
+<div class="h4"><h4> // About //</h4></div>
+</div>
+</div>
+
+
+<div id="home-about">
+
+<div id="home-about-text">
+<div class="h5"><h5> I am Brandon Ferguson, your English teacher</h5></div>
+<div class="p"><p>Iâ€™ve always loved learning languages, ever since I took Latin in high school. I speak fluent Spanish and some Italian, and from personal experience, I know how being proficient in a second language can open doors, so it only made sense for me to take what I love and make a career out of it! My main interests as a teacher lie in find new ways to help students expand their vocabulary, improve their pronunciation, correct errors, and hone their writing skills. Overall, my goal is to help you become more fluent and more confident speaking English.</p></div>
+    <p></p>
+    <div class="h5"><h5>And Iâ€™d love to help you!</h5></div>
+    <p></p>
+    <div id="home-about-button">
+    <div><button id="btn-sub">Contact me!</button></div>
+    </div>
+    
+</div> 
+    <div id="home-about-image">
+    <img src="img/brandon.png" alt="Brandon Ferguson" width="85%"/>
+    </div>
+</div>
+
+</div>
+
+<div id="title-pag">
+<div id="text-title-pag">
+<div class="h4"><h4> // Contact //</h4></div>
+</div>
+</div>
+
+
+</body>
+
+
